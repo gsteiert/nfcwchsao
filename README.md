@@ -3,7 +3,15 @@
 
 This board has an engergy harvesting NFC EEPROM and WCH CH32V003 MCU.  
 The MCU is connected to an RGB LED and piezo buzzer.
-The two ICs are 8 pin SOIC, and the passives are 0603 so it is not too dificult to hand assemble, except for the RGB LED that is a little fine pitch.
+The two ICs are 8 pin SOIC, and the passives are 0603 so it is not too dificult to hand assemble, except for the RGB LED that is a little fine pitch, but the pads are extended and the close pins are shorted together anyway so it is not too difficult.
+
+This board is designed for and looks great in OSH Park After Dark
+![Front view of NFCWCHSAO board](doc/nfcwchsao-front.jpeg)
+![Back view of assembled NFCWCHSAO board](doc/nfcwchsao-back.jpeg)
+
+[Order from OSH Park](https://oshpark.com/shared_projects/BUIwWMCI)
+
+
 
 ## Components
  * [NT3H2211W0FT1X](https://www.mouser.com/ProductDetail/771-NT3H2211W0FT1X) 
