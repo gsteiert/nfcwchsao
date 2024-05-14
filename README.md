@@ -10,6 +10,7 @@ This board is designed for and looks great in OSH Park After Dark
 ![Back view of assembled NFCWCHSAO board](doc/nfcwchsao-back.jpeg)
 
 [Order from OSH Park](https://oshpark.com/shared_projects/BUIwWMCI)
+Be sure to choose the "After Dark" option to get the same results as in the picture.
 
 
 
