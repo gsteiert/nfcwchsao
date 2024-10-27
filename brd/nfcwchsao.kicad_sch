@@ -2566,7 +2566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "4.7uF"
 			(at 142.0368 117.983 0)
 			(effects
 				(font
@@ -2602,7 +2602,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14445"
+		(property "LCSC" " C1705"
 			(at 139.7 116.84 0)
 			(effects
 				(font
@@ -2611,7 +2611,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A105KP5NNNC"
+		(property "MPN" "CL10A475KP8NNNC"
 			(at 139.7 116.84 0)
 			(effects
 				(font
@@ -2707,7 +2707,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000060685855")
 		(property "Reference" "C2"
 			(at 249.9868 71.2216 0)
@@ -2794,7 +2794,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-0000606e3a23")
 		(property "Reference" "GS1"
 			(at 189.23 179.07 0)
@@ -2923,6 +2923,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7202185"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HSMG-C110"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "765cdc9f-19c5-4fd0-877f-833f304e83eb")
 		)
@@ -2992,6 +3010,15 @@
 			)
 		)
 		(property "MPN" "PKLCS1212E20A0-R1"
+			(at 105.41 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3811858"
 			(at 105.41 95.25 0)
 			(effects
 				(font
@@ -3264,7 +3291,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C98220"
 			(at 228.6 104.14 0)
 			(effects
 				(font
@@ -3273,7 +3300,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-0710KL"
 			(at 228.6 104.14 0)
 			(effects
 				(font
@@ -3518,7 +3545,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C108078"
 			(at 173.99 73.66 0)
 			(effects
 				(font
@@ -3527,7 +3554,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-073K3L"
 			(at 173.99 73.66 0)
 			(effects
 				(font
@@ -3669,7 +3696,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C98220"
 			(at 215.9 104.14 0)
 			(effects
 				(font
@@ -3678,7 +3705,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0603FR-0710KL"
 			(at 215.9 104.14 0)
 			(effects
 				(font
@@ -3879,7 +3906,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "edd76ff9-c552-4de4-8388-08a7fac027ff")
 		(property "Reference" "J1"
 			(at 222.25 110.49 0)
